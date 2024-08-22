@@ -1,0 +1,21 @@
+{
+    "Actor": {
+
+    },
+    "Item": {
+        "types": [
+            "meleeWeapon",
+            "rangedWeapon"
+        ],
+        "templates": {
+            "itemDescription": "",
+            "toHit": 0.4
+        },
+        "meleeWeapon": {
+            "templates": [
+                "itemDescription",
+                "toHit"
+            ]
+        }
+    }
+}
