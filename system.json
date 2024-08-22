@@ -1,0 +1,29 @@
+{
+    "name": "bssl",
+    "title": "Barren Sands & Shattered Lands",
+    "description": "A system for playing Barren Sands & Shattered Lands games",
+    "author": "Jazpixel",
+    "version": 0.01,
+    "minimumCoreVersion": 11,
+    "compatibility" : {
+        "minimum" : 11,
+        "verified" : 11,
+        "maximum" : 12
+    },
+    "esmodules": [
+        "bssl.js"
+    ],
+    "styles": [
+        "bssl.css"
+    ],
+    "packs": [
+
+    ],
+    "languages": [
+
+    ],
+    "gridDistance": 1,
+    "gridUnits": "m",
+    "primaryTokenAttribute": "hp",
+    "initiative": "initiative"
+}
