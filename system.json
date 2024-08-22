@@ -1,9 +1,13 @@
 {
-    "name": "bssl",
-    "title": "Barren Sands & Shattered Lands",
-    "description": "A system for playing Barren Sands & Shattered Lands games",
-    "author": "Jazpixel",
-    "version": 0.01,
+    "id": "BS-SL",
+    "name": "BS-SL",
+    "title": "Barren Sands And Shattered Lands",
+    "description": "A system for playing Barren Sands And Shattered Lands games",
+    "authors": [{
+        "name": "Jazpixel",
+        "discord": "Jazpixel"
+    }],
+    "version": "1.0.0",
     "minimumCoreVersion": 11,
     "compatibility" : {
         "minimum" : 11,
